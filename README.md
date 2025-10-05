@@ -4,7 +4,13 @@
 
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`** 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Don't+forget+to+⭐+the+repo;Happy+Coding!+🚀;Built+with+❤️+by+SHIFAT" alt="Thanks" />
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
 
 Assalamualaikum Everyone!  
 **𝐖𝐄𝐋𝐂𝐎𝐌 𝐓𝐎 𝐌𝐘 𝐒𝐇𝐈𝐅𝐀𝐓 𝐆𝐎𝐀𝐓 𝐒𝐇𝐈𝐙𝐔𝐊𝐀 𝐁𝐎𝐓**
